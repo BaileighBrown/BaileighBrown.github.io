@@ -40,6 +40,7 @@ Work Experience
   * Generated comprehensive documentation to streamline processes and facilitate knowledge transfer within the organization
   * Maintained and updated the company's asset records using KACE asset management system, ensuring accurate tracking of IT assets and compliance with organizational standards 
   * Provided on-site technical support to 8+ job sites across metro Atlanta, addressing technical issues promptly to support the deployed team and uphold jobsite quality standards
+  
 ### Lynskey Performance ###
 * Nov. 2022 - Dec. 2023: Web Developer 
   * Provided leadership as subject matter expert of application on production, and development - presenting
