@@ -30,16 +30,16 @@ Work Experience
 
 ### Teradata ###
 * May 2024 - Aug. 2024: UI Engineer Intern 
-  *  responsibilty 1
-  *  responsibilty 2
+  *  Worked closely with senior UI engineers to translate design mockups and wireframes into responsive web applications using HTML, CSS, Typescript, JavaScript, and Angular frameworks 
+  *  Collaborated with cross-functional teams, including product managers and backend developers, to integrate frontend components seamlessly into the overall product architecture
   *  responsibilty 3
 
 ### Mckenney's Inc ###
 * Jan. 2024 - May 2024: IT Intern
-  *  responsibilty 1
-  *  responsibilty 2
-  *  responsibilty 3
-
+  * Collaborated cross-functionally with various teams in IT to identify and resolve ~100+ software and hardware issues, ensuring seamless operations across departments  
+  * Generated comprehensive documentation to streamline processes and facilitate knowledge transfer within the organization
+  * Maintained and updated the company's asset records using KACE asset management system, ensuring accurate tracking of IT assets and compliance with organizational standards 
+  * Provided on-site technical support to 8+ job sites across metro Atlanta, addressing technical issues promptly to support the deployed team and uphold jobsite quality standards
 ###  Lynskey Performance ###
 * Nov. 2022 - Dec. 2023: Web Developer 
   * Provided leadership as subject matter expert of application on production, and development - presenting
