@@ -28,4 +28,6 @@ As for the product ‘reap’ the idea is for the device to be inconspicuous, ac
 At Teradata I was able to work on the user interface engineering team. I worked directly on company products, showcasing and demonstrating new implementations to stakeholders, and cultivating relationships with different departments to work on monthly releases.  
 
 ### Mckenney's Inc ###
-Working at Mckenney's exposed me to the world of IT. During my first rotation I worked perdominantly as a helpdesk technician. I resolved over 100 tickets through freshdesk ticketing system and helped workers across metro Atlanta at 8+ jobsites.     
+Working at Mckenney's exposed me to the world of IT. During my first rotation I worked perdominantly as a helpdesk technician. I resolved over 100 tickets through freshdesk ticketing system and helped support workers across metro Atlanta at 8+ jobsites.    
+
+![mck](/images/mck.JPG)
