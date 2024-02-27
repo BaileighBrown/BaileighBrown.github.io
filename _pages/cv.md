@@ -25,17 +25,9 @@ Work Experience
 ### Mckenney's Inc ###
 * Aug. 2024 - Dec. 2024: Incoming IT Intern
 
-<!-->  *  responsibilty 1
-  *  responsibilty 2
-  *  responsibilty 3
---->
 ### Teradata ###
 * May 2024 - Aug. 2024: Incoming UI Engineer Intern 
-<!---
-  *  Worked closely with senior UI engineers to translate design mockups and wireframes into responsive web applications using HTML, CSS, Typescript, JavaScript, and Angular frameworks 
-  *  Collaborated with cross-functional teams, including product managers and backend developers, to integrate frontend components seamlessly into the overall product architecture
-  *  responsibilty 3
-----> 
+
 ### Mckenney's Inc ###
 * Jan. 2024 - Present: IT Intern
   * Collaborated cross-functionally with various teams in IT to identify and resolve ~100+ software and hardware issues, ensuring seamless operations across departments  
