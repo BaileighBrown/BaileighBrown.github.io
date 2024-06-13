@@ -30,7 +30,7 @@ Work Experience
   
 ### Mckenney's Inc ###
 * Jan. 2024 - May 2024: IT Intern
-  * Collaborated cross-functionally with various teams in IT to identify and resolve ~100+ software and hardware issues, ensuring seamless operations across departments  
+  * Collaborated cross-functionally with various teams in IT to identify and resolve 200+ software and hardware issues, ensuring seamless operations across departments  
   * Generated comprehensive documentation to streamline processes and facilitate knowledge transfer within the organization
   * Maintained and updated the company's asset records using KACE asset management system, ensuring accurate tracking of IT assets and compliance with organizational standards 
   * Provided on-site technical support to 8+ job sites across metro Atlanta, addressing technical issues promptly to support the deployed team and uphold jobsite quality standards
