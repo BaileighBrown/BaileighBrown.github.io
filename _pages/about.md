@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a gradute student at Kennesaw State University getting my master of science degree in software engineering. I received my bachelor of science from Gordon State College in middle grades education. Currently I am apart of Mckenney's ongoing rotational IT co-op in Atlanta, Georgia. I am also working as a UI Engineer intern at Teradata for the summer of 2024. 
+I am a gradute student at Kennesaw State University getting my master of science degree in software engineering. I received my bachelor of science from Gordon State College in middle grades education. Previously I was apart of Mckenney's IT co-op in Atlanta, Georgia. Currently I am working as a UI Engineer intern at Teradata for the summer of 2024! 
 
 Spotlight
 ======
