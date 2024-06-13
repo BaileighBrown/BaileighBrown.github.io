@@ -22,14 +22,14 @@ Certifications
 
 Work Experience
 ======
-### Mckenney's Inc ###
-* Aug. 2024 - Dec. 2024: Incoming IT Intern
-
 ### Teradata ###
-* May 2024 - Aug. 2024: Incoming UI Engineer Intern 
-
+* May 2024 - Current: UI Engineer Intern 
+  * Contributed to the development of a self-service, public facing, web interface for an internal tool that explores how to improve upon Teradata’s current cloud offerings   
+  * Resolved multiple high-priority bugs to enhance GUI display of internal tool using technologies such as Typescript, RxJS, and Angular (material)
+  * Led coffee chat initiative by networking with professionals across teams, scheduling and coordinating meetings, communicating details, and guiding 9 fellow interns through the sessions
+  
 ### Mckenney's Inc ###
-* Jan. 2024 - Present: IT Intern
+* Jan. 2024 - May 2024: IT Intern
   * Collaborated cross-functionally with various teams in IT to identify and resolve ~100+ software and hardware issues, ensuring seamless operations across departments  
   * Generated comprehensive documentation to streamline processes and facilitate knowledge transfer within the organization
   * Maintained and updated the company's asset records using KACE asset management system, ensuring accurate tracking of IT assets and compliance with organizational standards 
@@ -51,7 +51,8 @@ Skills
   * Javascript
   * HTML
   * CSS 
-  * PHP
+  * Typescript
+  * SQL
 
 * Frameworks 
   * Angular
@@ -61,11 +62,14 @@ Skills
   * Bootstrap
 
 * Technologies 
-  * Postman 
+  * KACE
+  * Active Directory
+  * Git
   * Node
   * Rest
   * Bigcommerce 
   * MongoDB
+  * RxJS
   
 Professional Experience 
 ======
