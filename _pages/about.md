@@ -30,6 +30,6 @@ At Teradata I was able to work on the user interface engineering team. I worked 
 ![TD](/images/TD.jpg)
 
 ### Mckenney's Inc ###
-Working at Mckenney's exposed me to the world of IT. During my first rotation I worked predominantly as a helpdesk technician. I resolved over 100 tickets through freshdesk ticketing system and helped support workers across metro Atlanta at 8+ jobsites.    
+Working at Mckenney's exposed me to the world of IT. During my first rotation I worked predominantly as a helpdesk technician. I resolved over 200 tickets through freshdesk ticketing system and helped support workers across metro Atlanta at 8+ jobsites.    
 
 ![mck](/images/mck.JPG)
