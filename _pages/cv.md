@@ -19,11 +19,21 @@ Education
 Certifications
 ======
 * Certificate in full-stack web development, Georgia Institute of Technology, 2022
+* Software Engineering Foundations Master Certificate, 2023
 
 Work Experience
 ======
+### Kennesaw State University ###
+* Jan 2025 - Current: Graduate Research Assistant 
+  * Designed technical curriculum for the college of health and human services, enhancing engagement and learning 
+
+### Wellstar ###
+* Dec. 2024 - Current: IT- Sharepoint Developer Intern 
+  * Assisted in the migration of 50+ legacy sites to SharePoint platform, improving accessibility and team collaboration by designing and updating sites    
+  * Identified and resolved issues within power platform applications, providing technical support and training to end-users
+
 ### Teradata ###
-* May 2024 - Current: UI Engineer Intern 
+* May 2024 - Dec. 2024: UI Engineer Intern 
   * Contributed to the development of a self-service, public facing, web interface for an internal tool that explores how to improve upon Teradata’s current cloud offerings   
   * Resolved multiple high-priority bugs to enhance GUI display of internal tool using technologies such as Typescript, RxJS, and Angular (material)
   * Led coffee chat initiative by networking with professionals across teams, scheduling and coordinating meetings, communicating details, and guiding 9 fellow interns through the sessions

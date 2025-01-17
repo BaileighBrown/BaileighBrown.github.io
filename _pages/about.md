@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a gradute student at Kennesaw State University getting my master of science degree in software engineering. I received my bachelor of science from Gordon State College in middle grades education. Previously I was apart of Mckenney's IT co-op in Atlanta, Georgia. Currently I am working as a UI Engineer intern at Teradata for the summer of 2024! 
+I am a gradute student at Kennesaw State University getting my master of science degree in software engineering. I received my bachelor of science from Gordon State College in middle grades education. Previously I was apart of Mckenney's IT co-op and was a UI Engineer intern at Teradata. Currently I am with Wellstar as an IT intern as well as Kennesaw State University as a graduate research assistant. 
 
 Spotlight
 ======
+### Security Lookup Interface ###
+
+Incoming 
 
 ### Reap ###
 ![ReapV1.5](/images/reap.png)
