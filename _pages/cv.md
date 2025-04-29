@@ -24,7 +24,7 @@ Certifications
 Work Experience
 ======
 ### Wellstar ###
-* Dec. 2024 - Current: IT- Sharepoint Developer Intern 
+* Dec. 2024 - Current: IT - Sharepoint Developer Intern 
   * Assisted in the migration of 50+ legacy sites to SharePoint platform, improving accessibility and team collaboration by designing and updating sites    
   * Identified and resolved issues within power platform applications, providing technical support and training to end-users
 
