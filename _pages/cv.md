@@ -23,14 +23,15 @@ Certifications
 
 Work Experience
 ======
-### Kennesaw State University ###
-* Jan 2025 - Current: Graduate Research Assistant 
-  * Designed technical curriculum for the college of health and human services, enhancing engagement and learning 
-
 ### Wellstar ###
 * Dec. 2024 - Current: IT- Sharepoint Developer Intern 
   * Assisted in the migration of 50+ legacy sites to SharePoint platform, improving accessibility and team collaboration by designing and updating sites    
   * Identified and resolved issues within power platform applications, providing technical support and training to end-users
+
+### Kennesaw State University ###
+* Jan 2025 - May 2025: Graduate Research Assistant 
+  * Designed and developed 6+ interactive learning modules and instructional materials (lesson plans, assessments, guides, animations) to enhance student engagement with the simulator
+  * Researched integrating RealLives Simulator into college curricula to gamify learning and foster empathy through immersive, real-world scenario-based experiences
 
 ### Teradata ###
 * May 2024 - Dec. 2024: UI Engineer Intern 
@@ -66,19 +67,22 @@ Skills
 
 * Frameworks 
   * Angular
-  * JQuery
   * React
   * Express
   * Bootstrap
+  * Jest
 
 * Technologies 
   * KACE
   * Active Directory
   * Git
   * Node
-  * Rest
+  * API
+  * Freshdesk
+  * Supabase
   * Bigcommerce 
   * MongoDB
+  * Sharepoint
   * RxJS
   
 Professional Experience 

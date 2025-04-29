@@ -8,24 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a gradute student at Kennesaw State University getting my master of science degree in software engineering. I received my bachelor of science from Gordon State College in middle grades education. Previously I was apart of Mckenney's IT co-op and was a UI Engineer intern at Teradata. Currently I am with Wellstar as an IT intern as well as Kennesaw State University as a graduate research assistant. 
+Gradute student at Kennesaw State University excited to leverage technologies to make a positive impact on the day to day lives of others. 
 
 Spotlight
 ======
-### Security Lookup Interface ###
 
-Incoming 
+### Graduate Research Assistant ###
+On April 11th, 2025 I had the opportunity to present our research at KSUs 2025 Global Forum 
 
-### Reap ###
-![ReapV1.5](/images/reap.png)
+![ksu]()
+### Wellstar ###
+At Wellstar I worked with the power platform team taking on a special project with SharePoint Online. I had the opportunity to assist in the migration of 50+ legacy sites to the SharePoint platform, endgoal being to render the legacy site obsolete. 
 
-Reap is a contactless payment device I have been working on using NFID and RFC technologies (many versions and still in progress)
-
-In today's society we are quickly moving past the need for physical currencies, but not everyone is able to keep up with such progressions due to one disadvantage or another. I have seen many people on the internet mention how if they could just tap to pay to donate to those who are houseless/homeless then 9 times out of 10 they would. But because they typically don't carry cash on them they can't donate as frequently as they would like to. 
-
-The donor would simply tap the wearers device with their phone. This will bring up a screen to ask for a donation amount. Via the users phone they will input the amount they'd like to donate, transfer and move on. 
-
-As for the product ‘reap’ the idea is for the device to be inconspicuous, accessible and portable. Ease of use. 
+![wellstar](/images/wellstar_team.jpg)
 
 ### Teradata ###
 At Teradata I was able to work on the user interface engineering team. I worked directly on company products, showcasing and demonstrating new implementations to stakeholders, and cultivating relationships with colleagues to work on monthly releases. 
