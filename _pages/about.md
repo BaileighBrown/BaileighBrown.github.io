@@ -16,7 +16,8 @@ Spotlight
 ### Graduate Research Assistant ###
 On April 11th, 2025 I had the opportunity to present our research at KSUs 2025 Global Forum 
 
-![ksu]()
+<!---![ksu]()--->
+
 ### Wellstar ###
 At Wellstar I worked with the power platform team taking on a special project with SharePoint Online. I had the opportunity to assist in the migration of 50+ legacy sites to the SharePoint platform, endgoal being to render the legacy site obsolete. 
 
