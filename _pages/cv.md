@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV Here](https://docs.google.com/document/d/1K9eIQ0heDLvsBsbeaVNY6f5b5yzQbfg5tw6a1BEO_MM/edit?usp=sharing)
+[Resume](https://docs.google.com/document/d/1K9eIQ0heDLvsBsbeaVNY6f5b5yzQbfg5tw6a1BEO_MM/edit?usp=sharing)
 
 Education
 ======
@@ -31,7 +31,7 @@ Work Experience
   * Migrated and modernized 330+ intranet sites from the legacy eSource platform to SharePoint, enhancing employee access and engagement by collaborating with departments and redesigning site layouts 
   * Led outreach and investigation efforts to identify site owners across 40+ departments, accelerating the migration timeline and ensuring accurate content transition
   * Developed a new intranet navigation framework approved by leadership and handed off to Rightpoint for finalization and enterprise-wide deployment
-  
+
 ### Kennesaw State University ###
 * Jan 2025 - May 2025: Graduate Research Assistant 
   * Designed and developed 6+ interactive learning modules and instructional materials (lesson plans, assessments, guides, animations) to enhance student engagement with the simulator
@@ -89,7 +89,7 @@ Skills
   * Sharepoint
   * RxJS
   
-Professional Experience 
+Teaching 
 ======
 * 6th Grade Social Studies Teacher 
 * Summer Camp Instructor, Rising 3rd Graders
@@ -98,3 +98,5 @@ Professional Experience
 * 6th Grade Student Teacher  
 * 3rd Grade Reading Buddy 
 
+Publications
+======
