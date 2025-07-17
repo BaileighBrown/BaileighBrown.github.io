@@ -23,11 +23,15 @@ Certifications
 
 Work Experience
 ======
+### Teradata ###
+* Aug. 2025 - Current: Software Engineer
+
 ### Wellstar ###
 * Dec. 2024 - Current: IT - Sharepoint Developer Intern 
-  * Assisted in the migration of 50+ legacy sites to SharePoint platform, improving accessibility and team collaboration by designing and updating sites    
-  * Identified and resolved issues within power platform applications, providing technical support and training to end-users
-
+  * Migrated and modernized 330+ intranet sites from the legacy eSource platform to SharePoint, enhancing employee access and engagement by collaborating with departments and redesigning site layouts 
+  * Led outreach and investigation efforts to identify site owners across 40+ departments, accelerating the migration timeline and ensuring accurate content transition
+  * Developed a new intranet navigation framework approved by leadership and handed off to Rightpoint for finalization and enterprise-wide deployment
+  
 ### Kennesaw State University ###
 * Jan 2025 - May 2025: Graduate Research Assistant 
   * Designed and developed 6+ interactive learning modules and instructional materials (lesson plans, assessments, guides, animations) to enhance student engagement with the simulator

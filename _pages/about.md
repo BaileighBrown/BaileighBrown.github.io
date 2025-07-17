@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Gradute student at Kennesaw State University excited to leverage technologies to make a positive impact on the day to day lives of others. 
+Recent graduate from Kennesaw State University with a passion for leveraging technology to improve everyday life and create meaningful impact.
 
 Spotlight
 ======
